@@ -30,7 +30,7 @@
 
 ### Usage
 
-👣 Follow these steps to embark on your PCA journey:
+Follow these steps to embark on your PCA journey:
 
 1. Download the MNIST dataset from the provided link: [MNIST Dataset](https://www.kaggle.com/datasets/scolianni/mnistasjpg)
 2. Prepare your programming environment and ensure the required dependencies are installed.
@@ -41,5 +41,3 @@
 7. Plot the explained variance versus the number of PCs and determine the minimum number of PCs needed to cover at least 80% of the variance.
 
 🚀 Note: The program assumes that you have basic knowledge of programming and machine learning concepts.
-
-Enjoy exploring the power of PCA for feature selection and classification on the captivating MNIST dataset! 🌟🔬🎉
