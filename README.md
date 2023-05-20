@@ -7,25 +7,25 @@
 📊 This program takes you through the following engaging steps:
 
 **1. Dataset Acquisition:**
-🌐 Download the MNIST dataset from the Kaggle repository. 📥
+ Download the MNIST dataset from the Kaggle repository. 📥
    [MNIST Dataset](https://www.kaggle.com/datasets/scolianni/mnistasjpg)
 
 **2. Data Preparation:**
-🖼️ Load the image dataset into the program's environment and convert it into a suitable format for creating a machine learning model.
+ Load the image dataset into the program's environment and convert it into a suitable format for creating a machine learning model.
 
 **3. Custom PCA Implementation:**
-💡 Implement PCA from scratch by defining a custom PCA function or class. No pre-built implementations allowed! ✋
+ Implement PCA from scratch by defining a custom PCA function or class. No pre-built implementations allowed! ✋
    The PCA implementation is designed to be flexible and work with any dataset.
 
 **4. Feature Transformation and Classification:**
-🔢 Use k-Nearest Neighbors (kNN) algorithm to train ML models on the training set using both the original features and the transformed features obtained from PCA. 
+ Use k-Nearest Neighbors (kNN) algorithm to train ML models on the training set using both the original features and the transformed features obtained from PCA. 
    Experiment with different numbers of Principal Components (PCs): 5, 25, and 125.
 
 **5. Model Evaluation:**
-🎯 Run the trained models on the test set and report the classification accuracies achieved.
+ Run the trained models on the test set and report the classification accuracies achieved.
 
 **6. Explained Variance Analysis:**
-📈 Plot the explained variance (ratio of eigenvalue and sum of all eigenvalues) against the number of PCs.
+ Plot the explained variance (ratio of eigenvalue and sum of all eigenvalues) against the number of PCs.
    Discover the minimum number of PCs needed to cover at least 80% of the variance.
 
 ### Usage
